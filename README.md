@@ -2,7 +2,7 @@
  
 ## Learning Topics
 
-- Grab Interaction with a Physical Grabbable.
+- Grab Interaction with a Physics Grabbable.
 - Hand poses for right hand and left hand.
 - Using event wrapper and a script for turning flashlight on/off.
 
